@@ -5,4 +5,4 @@ Git track changes of files.
 branch dv.
 Creating a new branch is quick & simple.
 add merge.
-now master has a bug.
+now master has a bug but fixed by bug-1 already.
